@@ -1,4 +1,4 @@
-# Surfs Up Analysis
+# Surfs_Up  Analysis
 
 ## Project Overview
 The purpose of the analysis to find information about temperature trends before opening the surf shop. Specifically, to find temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
@@ -19,4 +19,7 @@ The results of this analysis are stated below:
  ![December_Statistics](https://github.com/shivam0921/surfs_up/blob/main/Challenge/Dec_Statistics.PNG)
 
 ## Summary
-Overall because the results are temperature focused a lot more analysis should be done on the weather to determine if the shop should be open year around. Based solely on the average temperature between June and December the weather stays rather steady in the 70’s, which is great for a surf and ice cream shop. More analysis should be done on the other months of the year and not just June and December and a query that looks at temperatures year around should be done. Another query should also be performed that looks into other weather factors such as precipitation, tropical storm patterns, and surf swell given the nature of the business we are assisting. 
+The challenges helps us to draw the pattern of the series over the course of six month weather analysis from the start of month of June and to end of month of December.
+From this analysis we can find out how the temp will be over the period and its is a good idea to open the surf shop and ice cream shop or not. Looking at the analysis its totally
+makes sense to open the shop and run the business.
+The more deep analysis should be done on different aspects like customer base , traffic on the days and all the months should be consdiered will dooing the analysis.
