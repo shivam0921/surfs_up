@@ -1,12 +1,13 @@
-# Surfs Up  Analysis
+# Surfs Up Analysis
 
 ## Project Overview
 The purpose of this project is to review temperature data for the months of June and December in Oahu, HI, in order to determine if a surf and ice cream shop business is sustainable year-round. Specially by looking at the temperatures during th months of June and December.
 
 ## Resources
-*Tools*: Jupyter Notebook, Visual Studio Code, SQLlite, Notepad++
+- [x] Tools: Jupyter Notebook, Visual Studio Code, SQLlite, Notepad++
+- [x] Data Source [here](https://github.com/shivam0921/surfs_up/blob/main/hawaii.sqlite?raw=true)
 
-## Results
+## Results ##
 
 The results of this analysis showed the following:
   * The average temperature in June is ~75 degrees and in December is ~71 degrees. On a hole this isn not a large difference
